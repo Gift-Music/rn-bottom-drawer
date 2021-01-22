@@ -103,6 +103,7 @@ const styles = {
       shadowColor: '#CECDCD',
       shadowRadius: 3,
       shadowOpacity: 5,
+      elevation: 5,
     }
   },
 }
